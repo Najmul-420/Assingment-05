@@ -2,6 +2,7 @@ import { Suspense } from "react";
 
 
 import Navber from "./components/Navber";
+import Banner from "./components/Footer/Banner";
 
 
 import { ToastContainer } from "react-toastify";  
@@ -13,6 +14,8 @@ function App() {
   return (
     <> 
       <Navber />
+
+      <Banner></Banner>
       
     
 
