@@ -2,7 +2,7 @@ import FooterImg from "../../assets/logo-text.png";
 
 const Footer = () => {
     return (
-        <footer className="bg-[#F1F5F9]">
+        <footer className="bg-[#FFFFFF]">
 
 
 
