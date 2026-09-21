@@ -15,7 +15,7 @@ const Technologys = ({ technologysPromise }: TechnologysProps) => {
 
     
 
-    <div className="pt-24 pb-12 min-h-screen bg-[#F8FAFC]">
+    <div className="pt-24 pb-12 min-h-screen bg-[#FFFFFF]">
 
       <div className="container mx-auto px-4 py-4">
         <h2 className="font-extrabold text-3xl md:text-4xl text-[#0F172A]">
